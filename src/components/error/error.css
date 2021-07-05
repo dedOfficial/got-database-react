@@ -1,0 +1,12 @@
+img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.error-wrap {
+    padding: 15px;
+    width: 500px;
+    background-color: #fff;
+    border-radius: 3px;
+    margin: 0 auto;
+}

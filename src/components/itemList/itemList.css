@@ -1,0 +1,11 @@
+.item-list .list-group-item {
+    cursor: pointer;
+}
+
+.item-list.list-group {
+    background-color: #fff;
+    margin-bottom: 2rem;
+    overflow: auto;
+    height: 300px;
+    border-radius: 3px;
+}
